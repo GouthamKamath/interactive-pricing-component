@@ -87,7 +87,7 @@ p{
   width: 35px;
   height: 35px;
   border-radius: 50%; 
-  background: #04AA6D url(/images/icon-slider.svg);
+  background: #04AA6D url('../images/icon-slider.svg');
   background-size: 70%;
   background-repeat: no-repeat;
   background-position-y: center;
@@ -231,7 +231,6 @@ p{
 
   .bottom-section ul{
       font-size: 13px;
-      /* margin-left:10px; */
       padding: 0;
       text-align: justify;
       width: 40%;
@@ -241,7 +240,7 @@ p{
     margin-bottom: 10px;
 	padding: 0 3px 0px 15px;
 	list-style: none;
-	background-image: url("/images/icon-check.svg");
+	background-image: url("../images/icon-check.svg");
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-size: 15px;
